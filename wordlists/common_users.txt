@@ -1,0 +1,14 @@
+admin
+root
+user
+test
+guest
+administrator
+support
+info
+webmaster
+mysql
+oracle
+postgres
+ftp
+ssh
